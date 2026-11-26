@@ -12,6 +12,10 @@ button {
   cursor: pointer;
 }
 
+h1{
+    color: chocolate;
+}
+
 /* 暗色模式：给 body 加 .dark 类时生效 */
 .dark {
   background: #1e1e1e;
